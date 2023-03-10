@@ -1,13 +1,28 @@
 {
   "files": {
-    "main.css": "/phonebook/static/css/main.cf806b69.css",
-    "main.js": "/phonebook/static/js/main.c3f491e4.js",
+    "main.css": "/phonebook/static/css/main.1bafcb0d.css",
+    "main.js": "/phonebook/static/js/main.1d3ac59a.js",
+    "static/js/304.845a6b7a.chunk.js": "/phonebook/static/js/304.845a6b7a.chunk.js",
+    "static/js/520.fc7f66f2.chunk.js": "/phonebook/static/js/520.fc7f66f2.chunk.js",
+    "static/js/427.1dbcfbf3.chunk.js": "/phonebook/static/js/427.1dbcfbf3.chunk.js",
+    "static/js/643.bb21d840.chunk.js": "/phonebook/static/js/643.bb21d840.chunk.js",
+    "static/js/9.98039cd3.chunk.js": "/phonebook/static/js/9.98039cd3.chunk.js",
+    "static/js/522.9fccf551.chunk.js": "/phonebook/static/js/522.9fccf551.chunk.js",
+    "static/js/987.ff089644.chunk.js": "/phonebook/static/js/987.ff089644.chunk.js",
+    "static/media/welcomePage.jpg": "/phonebook/static/media/welcomePage.56718f6c124dfcc75b9c.jpg",
     "index.html": "/phonebook/index.html",
-    "main.cf806b69.css.map": "/phonebook/static/css/main.cf806b69.css.map",
-    "main.c3f491e4.js.map": "/phonebook/static/js/main.c3f491e4.js.map"
+    "main.1bafcb0d.css.map": "/phonebook/static/css/main.1bafcb0d.css.map",
+    "main.1d3ac59a.js.map": "/phonebook/static/js/main.1d3ac59a.js.map",
+    "304.845a6b7a.chunk.js.map": "/phonebook/static/js/304.845a6b7a.chunk.js.map",
+    "520.fc7f66f2.chunk.js.map": "/phonebook/static/js/520.fc7f66f2.chunk.js.map",
+    "427.1dbcfbf3.chunk.js.map": "/phonebook/static/js/427.1dbcfbf3.chunk.js.map",
+    "643.bb21d840.chunk.js.map": "/phonebook/static/js/643.bb21d840.chunk.js.map",
+    "9.98039cd3.chunk.js.map": "/phonebook/static/js/9.98039cd3.chunk.js.map",
+    "522.9fccf551.chunk.js.map": "/phonebook/static/js/522.9fccf551.chunk.js.map",
+    "987.ff089644.chunk.js.map": "/phonebook/static/js/987.ff089644.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf806b69.css",
-    "static/js/main.c3f491e4.js"
+    "static/css/main.1bafcb0d.css",
+    "static/js/main.1d3ac59a.js"
   ]
 }
